@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Tech/Python/Numba.md",
+                "file": "Obsidian/00_Note/노트앱 특징 정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Tech/Python/Numba.md",
+                "file": "Obsidian/00_Note/노트앱 특징 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Tech/Python/Numba.md",
+                "file": "Obsidian/00_Note/노트앱 특징 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Tech/Python/Numba.md"
+                "file": "Obsidian/00_Note/노트앱 특징 정리.md"
               }
             }
           }
@@ -148,6 +148,11 @@
   },
   "active": "0928e2a0a8f59aed",
   "lastOpenFiles": [
+    "Obsidian/00_Note",
+    "Obsidian/00_Note/Obsidian Git Back-up.md",
+    "Obsidian/00_Note/노트앱 특징 정리.md",
+    "Obsidian/Tech/Python/Numba.md",
+    "Obsidian/Basic",
     "Obsidian/Tech/Python",
     "Obsidian/Tech",
     "2024-02-19.md",
