@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Insight/AI/프로슈머의 미래 - AI Native 워크플로우의 부상.md",
+                "file": "Obsidian/Tech/Infra/Kubernetes 관련 알아봐야 할 개념.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Insight/AI/프로슈머의 미래 - AI Native 워크플로우의 부상.md",
+                "file": "Obsidian/Tech/Infra/Kubernetes 관련 알아봐야 할 개념.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Insight/AI/프로슈머의 미래 - AI Native 워크플로우의 부상.md",
+                "file": "Obsidian/Tech/Infra/Kubernetes 관련 알아봐야 할 개념.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Insight/AI/프로슈머의 미래 - AI Native 워크플로우의 부상.md"
+                "file": "Obsidian/Tech/Infra/Kubernetes 관련 알아봐야 할 개념.md"
               }
             }
           }
@@ -148,22 +148,32 @@
   },
   "active": "01539a00e3b2e189",
   "lastOpenFiles": [
-    "Obsidian/00_Note/노트앱 특징 정리 (PKM툴 - Personal Knowledge Management).md",
-    "Obsidian/Insight/AI",
-    "Obsidian/Insight",
-    "Logseq/journals/2024_02_20.md",
-    "Logseq/logseq/custom.css",
-    "Logseq/pages/contents.md",
-    "Logseq/pages",
-    "Logseq/logseq/config.edn",
-    "Logseq/journals",
-    "Logseq/logseq",
     "Obsidian/00_Note/Obsidian Git Back-up (키 정보 포함 - 파일 공유 불가).md",
+    "Obsidian/Tech/Infra/Kubernetes 관련 알아봐야 할 개념.md",
+    "Obsidian/Tech/Infra",
+    "Logseq/workspace/journals/2024_02_20.md",
+    "Logseq/workspace/Gemini - PKM 툴 비교 정리.md",
+    "Logseq/workspace/2024_02_20.md",
+    "Logseq/workspace/pages/card.md",
+    "Logseq/workspace/whiteboards/65d4586b-8580-44ce-a384-967930fac2d3.edn",
+    "Logseq/workspace/whiteboards",
+    "Logseq/workspace/logseq/custom.css",
+    "Logseq/workspace/pages/contents.md",
+    "Logseq/workspace/pages",
+    "Logseq/workspace/logseq/config.edn",
+    "Logseq/workspace/journals",
+    "Logseq/workspace/logseq",
+    "Logseq/workspace",
+    "Logseq/새 폴더",
+    "Logseq/2024_02_20.md",
+    "Logseq/pages/card.md",
+    "Logseq/journals/pages/card.md",
+    "Logseq/journals/pages/contents.md",
+    "Obsidian/00_Note/노트앱 특징 정리 (PKM툴 - Personal Knowledge Management).md",
     "Obsidian/Insight/AI/프로슈머의 미래 - AI Native 워크플로우의 부상.md",
-    "Obsidian/Tech/AI",
-    "Obsidian/00_Note",
+    "Logseq/journals/2024_02_20.md",
+    "Logseq/pages/contents.md",
     "Obsidian/Tech/Python/Numba.md",
-    "Obsidian/Basic",
     "2024-02-19.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
