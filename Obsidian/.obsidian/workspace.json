@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Work/OMS 관련 고민한 점 정리.md",
+                "file": "Obsidian/ETC/주의력 약 비교.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Work/OMS 관련 고민한 점 정리.md",
+                "file": "Obsidian/ETC/주의력 약 비교.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Work/OMS 관련 고민한 점 정리.md",
+                "file": "Obsidian/ETC/주의력 약 비교.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Work/OMS 관련 고민한 점 정리.md"
+                "file": "Obsidian/ETC/주의력 약 비교.md"
               }
             }
           }
@@ -149,8 +149,12 @@
   },
   "active": "01539a00e3b2e189",
   "lastOpenFiles": [
-    "Obsidian/00_Note/노트앱 특징 정리 (PKM툴 - Personal Knowledge Management).md",
     "Obsidian/Work/OMS 관련 고민한 점 정리.md",
+    "Obsidian/ETC/주의력 약 비교.md",
+    "Obsidian/ETC",
+    "Logseq/workspace/pages/주의력 약 비교.md",
+    "Logseq/workspace/pages/페이지.md",
+    "Obsidian/00_Note/노트앱 특징 정리 (PKM툴 - Personal Knowledge Management).md",
     "Logseq/workspace/whiteboards/OMS.edn",
     "Obsidian/Journals/2024-02-22.md",
     "Obsidian/Work",
@@ -169,7 +173,6 @@
     "Logseq/workspace/logseq/custom.css",
     "Logseq/workspace/pages/contents.md",
     "Logseq/workspace/pages",
-    "Logseq/workspace/logseq/config.edn",
     "Logseq/2024_02_20.md",
     "Logseq/pages/card.md",
     "Logseq/journals/pages/card.md",
