@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Tech/Infra/Kubernetes 관련 알아봐야 할 개념.md",
+                "file": "Obsidian/Work/OMS 관련 고민한 점 정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Tech/Infra/Kubernetes 관련 알아봐야 할 개념.md",
+                "file": "Obsidian/Work/OMS 관련 고민한 점 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Tech/Infra/Kubernetes 관련 알아봐야 할 개념.md",
+                "file": "Obsidian/Work/OMS 관련 고민한 점 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Tech/Infra/Kubernetes 관련 알아봐야 할 개념.md"
+                "file": "Obsidian/Work/OMS 관련 고민한 점 정리.md"
               }
             }
           }
@@ -138,21 +138,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "markdown-importer:마크다운 형식 가져오기 열기": false
     }
   },
   "active": "01539a00e3b2e189",
   "lastOpenFiles": [
-    "Obsidian/00_Note/Obsidian Git Back-up (키 정보 포함 - 파일 공유 불가).md",
-    "Obsidian/Tech/Infra/Kubernetes 관련 알아봐야 할 개념.md",
-    "Obsidian/Tech/Infra",
-    "Logseq/workspace/journals/2024_02_20.md",
+    "Obsidian/Journals/2024-02-22.md",
+    "Obsidian/Work/OMS 관련 고민한 점 정리.md",
+    "Obsidian/Work",
+    "Obsidian/Journals",
     "Logseq/workspace/Gemini - PKM 툴 비교 정리.md",
+    "Logseq/workspace/journals/2024_02_20.md",
+    "Obsidian/Tech/Blockchain/영지식 증명 관련 자료.md",
+    "Obsidian/Tech/Infra/Kubernetes 관련 알아봐야 할 개념.md",
+    "Obsidian/Tech/Blockchain",
+    "Obsidian/00_Note/Obsidian Git Back-up (키 정보 포함 - 파일 공유 불가).md",
+    "Obsidian/Tech/Infra",
     "Logseq/workspace/2024_02_20.md",
     "Logseq/workspace/pages/card.md",
     "Logseq/workspace/whiteboards/65d4586b-8580-44ce-a384-967930fac2d3.edn",
@@ -162,9 +169,6 @@
     "Logseq/workspace/pages",
     "Logseq/workspace/logseq/config.edn",
     "Logseq/workspace/journals",
-    "Logseq/workspace/logseq",
-    "Logseq/workspace",
-    "Logseq/새 폴더",
     "Logseq/2024_02_20.md",
     "Logseq/pages/card.md",
     "Logseq/journals/pages/card.md",
