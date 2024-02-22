@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Journals/2024-02-22.md",
+                "file": "Obsidian/ETC/주의력 약 비교.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Journals/2024-02-22.md",
+                "file": "Obsidian/ETC/주의력 약 비교.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Journals/2024-02-22.md",
+                "file": "Obsidian/ETC/주의력 약 비교.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Journals/2024-02-22.md"
+                "file": "Obsidian/ETC/주의력 약 비교.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "01539a00e3b2e189",
   "lastOpenFiles": [
+    "Obsidian/Journals/2024-02-22.md",
     "Obsidian/ETC/주의력 약 비교.md",
     "Obsidian/Work/OMS 관련 고민한 점 정리.md",
     "Obsidian/ETC",
@@ -156,7 +157,6 @@
     "Logseq/workspace/pages/페이지.md",
     "Obsidian/00_Note/노트앱 특징 정리 (PKM툴 - Personal Knowledge Management).md",
     "Logseq/workspace/whiteboards/OMS.edn",
-    "Obsidian/Journals/2024-02-22.md",
     "Obsidian/Work",
     "Obsidian/Journals",
     "Logseq/workspace/Gemini - PKM 툴 비교 정리.md",
