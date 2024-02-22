@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Work/OMS 관련 고민한 점 정리.md",
+                "file": "Obsidian/00_Note/노트앱 특징 정리 (PKM툴 - Personal Knowledge Management).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Work/OMS 관련 고민한 점 정리.md",
+                "file": "Obsidian/00_Note/노트앱 특징 정리 (PKM툴 - Personal Knowledge Management).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Work/OMS 관련 고민한 점 정리.md",
+                "file": "Obsidian/00_Note/노트앱 특징 정리 (PKM툴 - Personal Knowledge Management).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Work/OMS 관련 고민한 점 정리.md"
+                "file": "Obsidian/00_Note/노트앱 특징 정리 (PKM툴 - Personal Knowledge Management).md"
               }
             }
           }
@@ -147,11 +147,11 @@
       "markdown-importer:마크다운 형식 가져오기 열기": false
     }
   },
-  "active": "0928e2a0a8f59aed",
+  "active": "01539a00e3b2e189",
   "lastOpenFiles": [
+    "Obsidian/Work/OMS 관련 고민한 점 정리.md",
     "Logseq/workspace/whiteboards/OMS.edn",
     "Obsidian/Journals/2024-02-22.md",
-    "Obsidian/Work/OMS 관련 고민한 점 정리.md",
     "Obsidian/Work",
     "Obsidian/Journals",
     "Logseq/workspace/Gemini - PKM 툴 비교 정리.md",
@@ -169,7 +169,6 @@
     "Logseq/workspace/pages/contents.md",
     "Logseq/workspace/pages",
     "Logseq/workspace/logseq/config.edn",
-    "Logseq/workspace/journals",
     "Logseq/2024_02_20.md",
     "Logseq/pages/card.md",
     "Logseq/journals/pages/card.md",

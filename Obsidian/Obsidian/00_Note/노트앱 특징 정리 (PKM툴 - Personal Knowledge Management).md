@@ -23,7 +23,7 @@ Logseq
 - 로컬저장, 자체 싱크 기능 개발 중
 - 플러그인 지원
 - 불릿 기반이어서 백링크 활용도가 상당히 높아짐
-- Obsidian 의 메이저 플러그인 기능이 기본 내장 (예를들면 dataview, Excalidraw, Task 등)
+- Obsidian 의 메이저 플러그인 기능이 기본 내장 (예를들면 dataview, Excalidraw, Task, Outliner 등)
 - 단점: 그래프뷰, 원폴더 시스템, 검색이 약함 (쿼리가 있어 보완가능하지만 어렵다)
 
 Foam
