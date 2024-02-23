@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0ab671262af1c668",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/123.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Journals/2024-02-23.md",
+                "file": "Excalidraw/123.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Journals/2024-02-23.md",
+                "file": "Excalidraw/123.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Journals/2024-02-23.md"
+                "file": "Excalidraw/123.md"
               }
             }
           }
@@ -157,12 +167,16 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "markdown-importer:마크다운 형식 가져오기 열기": false
+      "markdown-importer:마크다운 형식 가져오기 열기": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5dc58b7f58c406f7",
+  "active": "0ab671262af1c668",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-02-23 16.26.13.excalidraw.md",
+    "Excalidraw/123.md",
     "Obsidian/Journals/2024-02-23.md",
+    "Excalidraw",
     "Obsidian/Journals/2024-02-22.md",
     "Obsidian/ETC/주의력 약 비교.md",
     "Obsidian/Work/OMS 관련 고민한 점 정리.md",
@@ -186,7 +200,6 @@
     "Logseq/workspace/whiteboards",
     "Logseq/workspace/logseq/custom.css",
     "Logseq/workspace/pages/contents.md",
-    "Logseq/workspace/pages",
     "Logseq/2024_02_20.md",
     "Logseq/pages/card.md",
     "Logseq/journals/pages/card.md",
@@ -197,8 +210,6 @@
     "Obsidian/Tech/Python/Numba.md",
     "2024-02-19.md",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Numba.md",
-    "2024-02-15.md"
+    "Untitled.canvas"
   ]
 }
