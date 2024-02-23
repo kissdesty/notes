@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5dc58b7f58c406f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Journals/2024-02-23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/ETC/주의력 약 비교.md",
+                "file": "Obsidian/Journals/2024-02-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/ETC/주의력 약 비교.md",
+                "file": "Obsidian/Journals/2024-02-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/ETC/주의력 약 비교.md"
+                "file": "Obsidian/Journals/2024-02-23.md"
               }
             }
           }
@@ -147,8 +160,9 @@
       "markdown-importer:마크다운 형식 가져오기 열기": false
     }
   },
-  "active": "01539a00e3b2e189",
+  "active": "5dc58b7f58c406f7",
   "lastOpenFiles": [
+    "Obsidian/Journals/2024-02-23.md",
     "Obsidian/Journals/2024-02-22.md",
     "Obsidian/ETC/주의력 약 비교.md",
     "Obsidian/Work/OMS 관련 고민한 점 정리.md",
