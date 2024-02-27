@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Work/전략 로테이션.md",
+                "file": "Obsidian/Work/OMS 관련 고민한 점 정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Work/전략 로테이션.md",
+                "file": "Obsidian/Work/OMS 관련 고민한 점 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Work/전략 로테이션.md",
+                "file": "Obsidian/Work/OMS 관련 고민한 점 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Work/전략 로테이션.md"
+                "file": "Obsidian/Work/OMS 관련 고민한 점 정리.md"
               }
             }
           }
@@ -175,15 +175,19 @@
   },
   "active": "0ab671262af1c668",
   "lastOpenFiles": [
-    "Excalidraw/123.md",
+    "Logseq/workspace/logseq/bak/whiteboards/65d4586b-8580-44ce-a384-967930fac2d3/2024-02-27T04_14_27.533Z.Desktop.edn",
+    "Logseq/workspace/logseq/bak/whiteboards/65d4586b-8580-44ce-a384-967930fac2d3",
+    "Logseq/workspace/logseq/bak/whiteboards",
+    "Logseq/workspace/logseq/bak",
     "Obsidian/Work/전략 로테이션.md",
+    "Obsidian/Work/OMS 관련 고민한 점 정리.md",
+    "Excalidraw/123.md",
     "Excalidraw/OMS_flowchart-2024-02-26.excalidraw",
     "Excalidraw/Drawing 2024-02-23 16.26.13.excalidraw.md",
     "Obsidian/Journals/2024-02-23.md",
     "Excalidraw",
     "Obsidian/Journals/2024-02-22.md",
     "Obsidian/ETC/주의력 약 비교.md",
-    "Obsidian/Work/OMS 관련 고민한 점 정리.md",
     "Obsidian/ETC",
     "Logseq/workspace/pages/주의력 약 비교.md",
     "Logseq/workspace/pages/페이지.md",
@@ -197,11 +201,8 @@
     "Obsidian/Tech/Infra/Kubernetes 관련 알아봐야 할 개념.md",
     "Obsidian/Tech/Blockchain",
     "Obsidian/00_Note/Obsidian Git Back-up (키 정보 포함 - 파일 공유 불가).md",
-    "Obsidian/Tech/Infra",
     "Logseq/workspace/2024_02_20.md",
     "Logseq/workspace/pages/card.md",
-    "Logseq/workspace/whiteboards/65d4586b-8580-44ce-a384-967930fac2d3.edn",
-    "Logseq/workspace/whiteboards",
     "Logseq/workspace/pages/contents.md",
     "Logseq/2024_02_20.md",
     "Logseq/pages/card.md",
@@ -210,7 +211,6 @@
     "Obsidian/Insight/AI/프로슈머의 미래 - AI Native 워크플로우의 부상.md",
     "Logseq/journals/2024_02_20.md",
     "Logseq/pages/contents.md",
-    "Obsidian/Tech/Python/Numba.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
