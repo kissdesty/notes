@@ -35,9 +35,11 @@
             "id": "0ab671262af1c668",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/123.md"
+                "file": "Obsidian/Work/전략 로테이션.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/123.md",
+                "file": "Obsidian/Work/전략 로테이션.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/123.md",
+                "file": "Obsidian/Work/전략 로테이션.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/123.md"
+                "file": "Obsidian/Work/전략 로테이션.md"
               }
             }
           }
@@ -173,9 +175,10 @@
   },
   "active": "0ab671262af1c668",
   "lastOpenFiles": [
+    "Excalidraw/123.md",
+    "Obsidian/Work/전략 로테이션.md",
     "Excalidraw/OMS_flowchart-2024-02-26.excalidraw",
     "Excalidraw/Drawing 2024-02-23 16.26.13.excalidraw.md",
-    "Excalidraw/123.md",
     "Obsidian/Journals/2024-02-23.md",
     "Excalidraw",
     "Obsidian/Journals/2024-02-22.md",
@@ -199,7 +202,6 @@
     "Logseq/workspace/pages/card.md",
     "Logseq/workspace/whiteboards/65d4586b-8580-44ce-a384-967930fac2d3.edn",
     "Logseq/workspace/whiteboards",
-    "Logseq/workspace/logseq/custom.css",
     "Logseq/workspace/pages/contents.md",
     "Logseq/2024_02_20.md",
     "Logseq/pages/card.md",
