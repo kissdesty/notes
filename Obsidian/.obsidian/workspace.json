@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/ETC/주의력 약 비교.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5dc58b7f58c406f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/Journals/2024-02-23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ab671262af1c668",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/Work/OMS 관련 고민한 점 정리.md",
+                "file": "Obsidian/ETC/Todo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Work/OMS 관련 고민한 점 정리.md",
+                "file": "Obsidian/ETC/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Work/OMS 관련 고민한 점 정리.md",
+                "file": "Obsidian/ETC/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Work/OMS 관련 고민한 점 정리.md"
+                "file": "Obsidian/ETC/Todo.md"
               }
             }
           }
@@ -173,8 +148,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0ab671262af1c668",
+  "active": "01539a00e3b2e189",
   "lastOpenFiles": [
+    "Obsidian/ETC/주의력 약 비교.md",
+    "Obsidian/ETC/Todo.md",
+    "Obsidian/Journals/2024-02-23.md",
+    "Obsidian/Journals/2024-02-22.md",
+    "Obsidian/Work/OMS 관련 고민한 점 정리.md",
     "Excalidraw/OMS_flowchart-2024-02-28.excalidraw",
     "Excalidraw/Untitled-2023-11-13-1222(2).excalidraw",
     "Logseq/workspace/logseq/bak/whiteboards/65d4586b-8580-44ce-a384-967930fac2d3/2024-02-27T04_14_27.533Z.Desktop.edn",
@@ -182,20 +162,15 @@
     "Logseq/workspace/logseq/bak/whiteboards",
     "Logseq/workspace/logseq/bak",
     "Obsidian/Work/전략 로테이션.md",
-    "Obsidian/Work/OMS 관련 고민한 점 정리.md",
     "Excalidraw/123.md",
     "Excalidraw/OMS_flowchart-2024-02-26.excalidraw",
     "Excalidraw/Drawing 2024-02-23 16.26.13.excalidraw.md",
-    "Obsidian/Journals/2024-02-23.md",
     "Excalidraw",
-    "Obsidian/Journals/2024-02-22.md",
-    "Obsidian/ETC/주의력 약 비교.md",
     "Obsidian/ETC",
     "Logseq/workspace/pages/주의력 약 비교.md",
     "Logseq/workspace/pages/페이지.md",
     "Obsidian/00_Note/노트앱 특징 정리 (PKM툴 - Personal Knowledge Management).md",
     "Logseq/workspace/whiteboards/OMS.edn",
-    "Obsidian/Work",
     "Logseq/workspace/Gemini - PKM 툴 비교 정리.md",
     "Logseq/workspace/journals/2024_02_20.md",
     "Obsidian/Tech/Blockchain/영지식 증명 관련 자료.md",
