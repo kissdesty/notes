@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/ETC/Todo.md",
+                "file": "Obsidian/Journals/2024-03-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/ETC/Todo.md",
+                "file": "Obsidian/Journals/2024-03-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/ETC/Todo.md",
+                "file": "Obsidian/Journals/2024-03-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/ETC/Todo.md"
+                "file": "Obsidian/Journals/2024-03-06.md"
               }
             }
           }
@@ -150,9 +150,10 @@
   },
   "active": "01539a00e3b2e189",
   "lastOpenFiles": [
-    "Obsidian/ETC/주의력 약 비교.md",
-    "Obsidian/ETC/Todo.md",
     "Obsidian/Journals/2024-02-23.md",
+    "Obsidian/Journals/2024-03-06.md",
+    "Obsidian/ETC/Todo.md",
+    "Obsidian/ETC/주의력 약 비교.md",
     "Obsidian/Journals/2024-02-22.md",
     "Obsidian/Work/OMS 관련 고민한 점 정리.md",
     "Excalidraw/OMS_flowchart-2024-02-28.excalidraw",
@@ -185,7 +186,6 @@
     "Logseq/journals/pages/contents.md",
     "Obsidian/Insight/AI/프로슈머의 미래 - AI Native 워크플로우의 부상.md",
     "Logseq/journals/2024_02_20.md",
-    "Logseq/pages/contents.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
