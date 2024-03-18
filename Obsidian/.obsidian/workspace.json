@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Journals/2024-03-18.md",
+                "file": "Obsidian/ETC/은행.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Journals/2024-03-18.md",
+                "file": "Obsidian/ETC/은행.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Journals/2024-03-18.md",
+                "file": "Obsidian/ETC/은행.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Journals/2024-03-18.md"
+                "file": "Obsidian/ETC/은행.md"
               }
             }
           }
@@ -150,8 +150,11 @@
   },
   "active": "01539a00e3b2e189",
   "lastOpenFiles": [
+    "Pasted image 20240318170025.png",
+    "Pasted image 20240318165935.png",
     "Obsidian/Journals/2024-03-06.md",
     "Obsidian/Journals/2024-03-18.md",
+    "Obsidian/ETC/은행.md",
     "Obsidian/Journals/2024-02-23.md",
     "Obsidian/ETC/Todo.md",
     "Obsidian/ETC/주의력 약 비교.md",
@@ -184,8 +187,6 @@
     "Logseq/2024_02_20.md",
     "Logseq/pages/card.md",
     "Logseq/journals/pages/card.md",
-    "Logseq/journals/pages/contents.md",
-    "Obsidian/Insight/AI/프로슈머의 미래 - AI Native 워크플로우의 부상.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
