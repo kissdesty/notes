@@ -20,19 +20,19 @@
             }
           },
           {
-            "id": "fbdf8984abe46bf1",
+            "id": "fef77c13b32b72bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/ETC/실패하지 않는.md",
+                "file": "Obsidian/ETC/웹소설 소재.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fef77c13b32b72bc",
+            "id": "680e00dcd5ce4d60",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -165,12 +165,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fef77c13b32b72bc",
+  "active": "680e00dcd5ce4d60",
   "lastOpenFiles": [
-    "Obsidian/ETC/실패하지 않는.md",
-    "Obsidian/ETC/무제 파일.md",
-    "Obsidian/ETC/신.md",
     "Obsidian/ETC/웹소설 소재.md",
+    "Obsidian/ETC/실패하지 않는.md",
+    "Obsidian/ETC/신.md",
+    "Obsidian/ETC/무제 파일.md",
     "Obsidian/ETC/Todo.md",
     "Obsidian/Journals/2024-03-27.md",
     "Obsidian/Journals/2024-05-21.md",
