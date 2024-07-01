@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bc56f9c7e854f544",
+        "id": "f933e3ff4d0222d6",
         "type": "tabs",
         "children": [
           {
-            "id": "680e00dcd5ce4d60",
+            "id": "a3fcc3ee8703488f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/Journals/2024-07-01.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Journals/2024-07-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Journals/2024-07-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Obsidian/Journals/2024-07-01.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,18 +140,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "680e00dcd5ce4d60",
+  "active": "a3fcc3ee8703488f",
   "lastOpenFiles": [
-    "Obsidian/ETC/Todo.md",
+    "Obsidian/ETC/신.md",
+    "Obsidian/ETC/도구없이 등운동.md",
+    "Obsidian/ETC/무제 파일.md",
+    "Obsidian/ETC/웹소설 소재.md",
     "Obsidian/Journals/2024-07-01.md",
+    "Obsidian/ETC/Todo.md",
     "Obsidian/Journals/2024-03-27.md",
     "Obsidian/Journals/2024-04-17.md",
     "Obsidian/Journals/2024-05-02.md",
     "Obsidian/Journals/2024-05-21.md",
-    "Obsidian/ETC/웹소설 소재.md",
     "Obsidian/ETC/실패하지 않는.md",
-    "Obsidian/ETC/신.md",
-    "Obsidian/ETC/무제 파일.md",
     "Obsidian/임시/알뜰폰 2024.05.md",
     "Pasted image 20240318165935.png",
     "Obsidian/임시",
@@ -195,7 +188,6 @@
     "Logseq/workspace/pages/주의력 약 비교.md",
     "Logseq/workspace/pages/페이지.md",
     "Obsidian/00_Note/노트앱 특징 정리 (PKM툴 - Personal Knowledge Management).md",
-    "Logseq/workspace/Gemini - PKM 툴 비교 정리.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
