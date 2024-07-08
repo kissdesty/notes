@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a3fcc3ee8703488f",
+            "id": "5d8807939bc1c69e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -140,9 +140,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a3fcc3ee8703488f",
+  "active": "5d8807939bc1c69e",
   "lastOpenFiles": [
     "Obsidian/ETC/신.md",
+    "Obsidian/ETC/세령.md",
     "Obsidian/ETC/도구없이 등운동.md",
     "Obsidian/ETC/무제 파일.md",
     "Obsidian/ETC/웹소설 소재.md",
@@ -187,7 +188,6 @@
     "Obsidian/ETC",
     "Logseq/workspace/pages/주의력 약 비교.md",
     "Logseq/workspace/pages/페이지.md",
-    "Obsidian/00_Note/노트앱 특징 정리 (PKM툴 - Personal Knowledge Management).md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
