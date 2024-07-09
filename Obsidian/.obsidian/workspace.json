@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f933e3ff4d0222d6",
+        "id": "6e862ef6cbb8df44",
         "type": "tabs",
         "children": [
           {
-            "id": "5d8807939bc1c69e",
+            "id": "4d3e7ba73dadbeed",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -140,10 +140,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5d8807939bc1c69e",
+  "active": "4d3e7ba73dadbeed",
   "lastOpenFiles": [
+    "Obsidian/ETC/IMU Production.md",
     "Obsidian/ETC/신.md",
-    "Obsidian/ETC/세령.md",
     "Obsidian/ETC/도구없이 등운동.md",
     "Obsidian/ETC/무제 파일.md",
     "Obsidian/ETC/웹소설 소재.md",
