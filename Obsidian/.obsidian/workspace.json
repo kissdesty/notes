@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "407f42c8262cdd8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Journals/2024-08-09.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Journals/2024-07-29.md",
+                "file": "Obsidian/Journals/2024-08-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Journals/2024-07-29.md",
+                "file": "Obsidian/Journals/2024-08-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Journals/2024-07-29.md"
+                "file": "Obsidian/Journals/2024-08-09.md"
               }
             }
           }
@@ -148,8 +161,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4d3e7ba73dadbeed",
+  "active": "407f42c8262cdd8c",
   "lastOpenFiles": [
+    "Obsidian/Journals/2024-08-09.md",
     "Obsidian/Journals/2024-07-29.md",
     "Obsidian/ETC/IMU Production.md",
     "Obsidian/ETC/신.md",
@@ -195,7 +209,6 @@
     "Excalidraw/Drawing 2024-02-23 16.26.13.excalidraw.md",
     "Excalidraw",
     "Obsidian/ETC",
-    "Logseq/workspace/pages/주의력 약 비교.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
