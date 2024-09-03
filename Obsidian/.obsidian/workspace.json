@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Journals/2024-09-03.md",
+                "file": "Obsidian/00_Note/To-do List 앱.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "9704a2799d4cb6fb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Journals/2024-09-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Journals/2024-09-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Obsidian/Journals/2024-09-03.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,10 +153,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4d3e7ba73dadbeed",
+  "active": "9704a2799d4cb6fb",
   "lastOpenFiles": [
-    "Obsidian/Journals/2024-07-29.md",
+    "Obsidian/00_Note/To-do List 앱.md",
     "Obsidian/Journals/2024-09-03.md",
+    "Obsidian/Journals/2024-07-29.md",
     "Obsidian/00_Note/노트앱 특징 정리 (PKM툴 - Personal Knowledge Management).md",
     "Obsidian/Journals/2024-08-09.md",
     "Obsidian/ETC/IMU Production.md",
@@ -192,7 +198,6 @@
     "Logseq/workspace/logseq/bak/whiteboards/65d4586b-8580-44ce-a384-967930fac2d3",
     "Logseq/workspace/logseq/bak/whiteboards",
     "Logseq/workspace/logseq/bak",
-    "Obsidian/Work/전략 로테이션.md",
     "Excalidraw/OMS_flowchart-2024-02-26.excalidraw",
     "Excalidraw",
     "Obsidian/ETC",
