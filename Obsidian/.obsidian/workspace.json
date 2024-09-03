@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Journals/2024-07-29.md",
+                "file": "Obsidian/Journals/2024-09-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Journals/2024-07-29.md",
+                "file": "Obsidian/Journals/2024-09-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Journals/2024-07-29.md",
+                "file": "Obsidian/Journals/2024-09-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Journals/2024-07-29.md"
+                "file": "Obsidian/Journals/2024-09-03.md"
               }
             }
           }
@@ -150,9 +150,10 @@
   },
   "active": "4d3e7ba73dadbeed",
   "lastOpenFiles": [
+    "Obsidian/Journals/2024-07-29.md",
+    "Obsidian/Journals/2024-09-03.md",
     "Obsidian/00_Note/노트앱 특징 정리 (PKM툴 - Personal Knowledge Management).md",
     "Obsidian/Journals/2024-08-09.md",
-    "Obsidian/Journals/2024-07-29.md",
     "Obsidian/ETC/IMU Production.md",
     "Obsidian/ETC/신.md",
     "Obsidian/ETC/도구없이 등운동.md",
@@ -192,7 +193,6 @@
     "Logseq/workspace/logseq/bak/whiteboards",
     "Logseq/workspace/logseq/bak",
     "Obsidian/Work/전략 로테이션.md",
-    "Excalidraw/123.md",
     "Excalidraw/OMS_flowchart-2024-02-26.excalidraw",
     "Excalidraw",
     "Obsidian/ETC",
