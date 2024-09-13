@@ -23,8 +23,12 @@
             "id": "9704a2799d4cb6fb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Journals/2024-09-13.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Obsidian/Journals/2024-09-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Obsidian/Journals/2024-09-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Obsidian/Journals/2024-09-13.md"
+              }
             }
           }
         ]
@@ -155,6 +163,7 @@
   },
   "active": "9704a2799d4cb6fb",
   "lastOpenFiles": [
+    "Obsidian/Journals/2024-09-13.md",
     "Obsidian/00_Note/To-do List 앱.md",
     "Obsidian/Journals/2024-09-03.md",
     "Obsidian/Journals/2024-07-29.md",
@@ -191,7 +200,6 @@
     "Obsidian/Journals/2024-02-23.md",
     "Obsidian/ETC/주의력 약 비교.md",
     "Obsidian/Journals/2024-02-22.md",
-    "Obsidian/Work/OMS 관련 고민한 점 정리.md",
     "Excalidraw/OMS_flowchart-2024-02-28.excalidraw",
     "Excalidraw/Untitled-2023-11-13-1222(2).excalidraw",
     "Logseq/workspace/logseq/bak/whiteboards/65d4586b-8580-44ce-a384-967930fac2d3/2024-02-27T04_14_27.533Z.Desktop.edn",
