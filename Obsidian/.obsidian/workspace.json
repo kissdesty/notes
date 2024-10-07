@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Journals/2024-10-07.md",
+                "file": "Obsidian/Trading/FreqTrade 실행 Command.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Journals/2024-10-07.md",
+                "file": "Obsidian/Trading/FreqTrade 실행 Command.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Journals/2024-10-07.md",
+                "file": "Obsidian/Trading/FreqTrade 실행 Command.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Journals/2024-10-07.md"
+                "file": "Obsidian/Trading/FreqTrade 실행 Command.md"
               }
             }
           }
@@ -164,6 +164,7 @@
   "active": "9704a2799d4cb6fb",
   "lastOpenFiles": [
     "Obsidian/Trading/FreqTrade.md",
+    "Obsidian/Trading/FreqTrade 실행 Command.md",
     "Obsidian/Journals/2024-10-07.md",
     "Obsidian/Journals/2024-09-13.md",
     "Obsidian/Trading",
@@ -200,7 +201,6 @@
     "Pasted image 20240326162846.png",
     "Pasted image 20240326162739.png",
     "Pasted image 20240326162623.png",
-    "Obsidian/Journals/2024-02-23.md",
     "Excalidraw/OMS_flowchart-2024-02-28.excalidraw",
     "Excalidraw/Untitled-2023-11-13-1222(2).excalidraw",
     "Logseq/workspace/logseq/bak/whiteboards/65d4586b-8580-44ce-a384-967930fac2d3/2024-02-27T04_14_27.533Z.Desktop.edn",
