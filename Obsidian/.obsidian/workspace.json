@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/GDD/개요.md",
+                "file": "Obsidian/Journals/2024-12-13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "개요"
+              "title": "2024-12-13"
             }
           },
           {
@@ -178,14 +178,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0928e2a0a8f59aed",
+  "active": "4d3e7ba73dadbeed",
   "lastOpenFiles": [
+    "Obsidian/GDD/개요.md",
+    "Obsidian/Journals/2024-12-13.md",
     "Obsidian/GDD/무기",
     "Obsidian/GDD/시스템",
     "Obsidian/GDD/맵",
     "Obsidian/GDD/캐릭터",
     "Obsidian/00_Note/To-do List 앱.md",
-    "Obsidian/GDD/개요.md",
     "Obsidian/GDD",
     "Obsidian/Work/OMS 관련 고민한 점 정리.md",
     "Pasted image 20240318165935.png",
@@ -225,7 +226,6 @@
     "Pasted image 20240326162623.png",
     "Excalidraw/OMS_flowchart-2024-02-28.excalidraw",
     "Excalidraw/Untitled-2023-11-13-1222(2).excalidraw",
-    "Logseq/workspace/logseq/bak/whiteboards/65d4586b-8580-44ce-a384-967930fac2d3/2024-02-27T04_14_27.533Z.Desktop.edn",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
