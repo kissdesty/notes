@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/GDD/필요 툴.md",
+                "file": "Obsidian/WND/미리 정해야 하는 것들.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "필요 툴"
+              "title": "미리 정해야 하는 것들"
             }
           },
           {
@@ -175,13 +175,16 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "markdown-importer:마크다운 형식 가져오기 열기": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "4d3e7ba73dadbeed",
   "lastOpenFiles": [
-    "Obsidian/GDD/개요.md",
     "Obsidian/GDD/필요 툴.md",
+    "Obsidian/WND/미리 정해야 하는 것들.md",
+    "Obsidian/WND",
+    "Obsidian/GDD/개요.md",
     "Obsidian/Tech/AI 서비스 비교.md",
     "Obsidian/Journals/2024-12-13.md",
     "Obsidian/GDD/무기",
@@ -213,7 +216,6 @@
     "Obsidian/ETC/IMU Production.md",
     "Obsidian/ETC/신.md",
     "Obsidian/ETC/도구없이 등운동.md",
-    "Obsidian/ETC/무제 파일.md",
     "Obsidian/임시",
     "Pasted image 20240320152541.png",
     "Pasted image 20240320150736.png",
@@ -225,7 +227,6 @@
     "Pasted image 20240326162739.png",
     "Pasted image 20240326162623.png",
     "Excalidraw/OMS_flowchart-2024-02-28.excalidraw",
-    "Excalidraw/Untitled-2023-11-13-1222(2).excalidraw",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
