@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/00_Note/노트앱 특징 정리 (PKM툴 - Personal Knowledge Management).md",
+                "file": "Obsidian/ETC/참고작품.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "노트앱 특징 정리 (PKM툴 - Personal Knowledge Management)"
+              "title": "참고작품"
             }
           },
           {
@@ -34,8 +34,19 @@
               "icon": "lucide-file",
               "title": "OMS 관련 고민한 점 정리"
             }
+          },
+          {
+            "id": "30f5555a2160db85",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -179,8 +190,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4d3e7ba73dadbeed",
+  "active": "30f5555a2160db85",
   "lastOpenFiles": [
+    "Obsidian/ETC/참고작품.md",
+    "Obsidian/ETC/웹소설 소재.md",
+    "Obsidian/00_Note/노트앱 특징 정리 (PKM툴 - Personal Knowledge Management).md",
     "Obsidian/WND/미리 정해야 하는 것들.md",
     "Obsidian/GDD/필요 툴.md",
     "Obsidian/WND",
@@ -210,12 +224,9 @@
     "Obsidian/Journals/2024-05-02.md",
     "Obsidian/Journals/2024-04-17.md",
     "Obsidian/Journals/2024-03-27.md",
-    "Obsidian/00_Note/노트앱 특징 정리 (PKM툴 - Personal Knowledge Management).md",
     "Obsidian/무제 폴더",
     "Obsidian/Trading",
     "Obsidian/ETC/IMU Production.md",
-    "Obsidian/ETC/신.md",
-    "Obsidian/ETC/도구없이 등운동.md",
     "Obsidian/임시",
     "Pasted image 20240320152541.png",
     "Pasted image 20240320150736.png",
