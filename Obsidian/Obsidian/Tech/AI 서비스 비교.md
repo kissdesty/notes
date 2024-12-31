@@ -2,9 +2,9 @@
 
 
 
-1. 코딩을 많이 함 - Cursor
+1. 코딩을 많이 함 - Cursor, VS Code (+ GitHub Copilot)
 
-2. 리서치를 많이 함 - GenSpark , Perplexity
+2. 리서치를 많이 함 - GenSpark , Gemini 2.0, Perplexity
 
 3. 실시간 정보가 필요하고 범용적인 기능 - Perplexity
 
@@ -12,7 +12,7 @@
 
 5. 코딩 필요없거나 비중이 적고 이것저것 다 함 - Claude , GPT , Perplexity
 
-6. 옵시디언 같은 마크다운 기반 문서 작성을 함 - Cursor
+6. 옵시디언 같은 마크다운 기반 문서 작성을 함 - Cursor, VS Code (+ GitHub Copilot)
 
 7. 대학원의 노예이거나 학술자료를 많이 씀 - SciSpace
 
@@ -22,4 +22,4 @@
   (Claude 3.5 sonnet, GPT-4o 사용가능. 코딩 이외의 질문도 가능)
 * Claude - 앤스로픽에서 만든 AI 서비스. (GPT 와 유사. 성능이 더 좋음)
 * GPT - 모두가 아는 그녀석
-* Gemini - 아무도 안쓰는...ㅠㅠ
+* Gemini - 최근 2.0 되면서 검색/리서치는 좀 쓰이는 듯. LLM 자체 성능은 좀 별로임
