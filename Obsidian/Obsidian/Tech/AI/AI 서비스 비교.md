@@ -4,7 +4,7 @@
 
 1. 코딩을 많이 함 - Cursor, VS Code (+ GitHub Copilot)
 
-2. 리서치를 많이 함 - GenSpark , Gemini 2.0, Perplexity
+2. 리서치를 많이 함 - GenSpark , Gemini 2.0 Advanced, Perplexity
 
 3. 실시간 정보가 필요하고 범용적인 기능 - Perplexity
 
@@ -14,7 +14,7 @@
 
 6. 옵시디언 같은 마크다운 기반 문서 작성을 함 - Cursor, VS Code (+ GitHub Copilot)
 
-7. 대학원의 노예이거나 학술자료를 많이 씀 - SciSpace
+7. 대학원생이거나 학술자료를 많이 씀 - SciSpace
 
 
 
