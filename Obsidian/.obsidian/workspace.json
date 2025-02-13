@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Journals/2025-02-13.md",
+                "file": "Obsidian/Trading/깡토 후기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-13"
+              "title": "깡토 후기"
             }
           }
         ],
@@ -196,8 +196,9 @@
   },
   "active": "30f5555a2160db85",
   "lastOpenFiles": [
-    "Obsidian/Tech/AI/AI 서비스 비교.md",
     "Obsidian/Journals/2025-02-13.md",
+    "Obsidian/Trading/깡토 후기.md",
+    "Obsidian/Tech/AI/AI 서비스 비교.md",
     "Obsidian/Journals/2024-12-13.md",
     "Obsidian/Journals/2024-12-02.md",
     "Obsidian/Insight/AI/프로슈머의 미래 - AI Native 워크플로우의 부상.md",
@@ -228,7 +229,6 @@
     "Obsidian/Trading/FreqTrade 실행 Command.md",
     "Obsidian/Trading/무제 파일.md",
     "Obsidian/Journals/2024-11-22.md",
-    "Obsidian/Journals/2024-10-07.md",
     "Obsidian/무제 폴더",
     "Obsidian/Trading",
     "Obsidian/임시",
