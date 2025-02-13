@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Tech/AI/AI 서비스 비교.md",
+                "file": "Obsidian/Journals/2025-02-13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI 서비스 비교"
+              "title": "2025-02-13"
             }
           }
         ],
@@ -194,8 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0928e2a0a8f59aed",
+  "active": "30f5555a2160db85",
   "lastOpenFiles": [
+    "Obsidian/Tech/AI/AI 서비스 비교.md",
+    "Obsidian/Journals/2025-02-13.md",
     "Obsidian/Journals/2024-12-13.md",
     "Obsidian/Journals/2024-12-02.md",
     "Obsidian/Insight/AI/프로슈머의 미래 - AI Native 워크플로우의 부상.md",
@@ -214,7 +216,6 @@
     "Obsidian/GDD/필요 툴.md",
     "Obsidian/WND",
     "Obsidian/GDD/개요.md",
-    "Obsidian/Tech/AI/AI 서비스 비교.md",
     "Obsidian/GDD/무기",
     "Obsidian/GDD/시스템",
     "Obsidian/GDD/맵",
@@ -228,7 +229,6 @@
     "Obsidian/Trading/무제 파일.md",
     "Obsidian/Journals/2024-11-22.md",
     "Obsidian/Journals/2024-10-07.md",
-    "Obsidian/Journals/2024-09-13.md",
     "Obsidian/무제 폴더",
     "Obsidian/Trading",
     "Obsidian/임시",
