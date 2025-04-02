@@ -400,6 +400,68 @@ print("Assets.csv 파일이 생성되었습니다!")
 
 
 
+```
+# 데이터프레임 기반으로 만든 후 저장하도록 수정 (Grok3) - Spread 소숫점 문제
+import requests
+import pandas as pd
+import numpy as np
+
+# 바이낸스 선물 마켓 심볼 가져오기
+url = "https://fapi.binance.com/fapi/v1/exchangeInfo"
+response = requests.get(url)
+data = response.json()
+
+# 거래 가능한 선물 심볼 목록 추출
+symbols = [s["symbol"] for s in data["symbols"] if s["status"] == "TRADING"]
+
+# 가격 및 마진 정보 가져오기
+ticker_url = "https://fapi.binance.com/fapi/v1/ticker/price"
+spread_url = "https://fapi.binance.com/fapi/v1/ticker/bookTicker"
+ticker_data = {t["symbol"]: float(t["price"]) for t in requests.get(ticker_url).json()}
+spread_data = {t["symbol"]: (float(t["askPrice"]) - float(t["bidPrice"])) for t in requests.get(spread_url).json()}
+
+# 데이터프레임 생성
+df = pd.DataFrame(columns=["Name", "Price", "Spread", "Pip", "Multiplier", "Margin", "RollLong", "RollShort", "Symbol"])
+
+# 데이터프레임에 데이터 추가
+for symbol in symbols:
+    price = ticker_data.get(symbol, 0)
+    spread = spread_data.get(symbol, 0)
+    pip = 0.01 if "USDT" in symbol else 0.0001
+    multiplier = 1
+    margin = 0.01
+    
+    new_row = {
+        "Name": symbol,
+        "Price": price,
+        "Spread": spread,
+        "Pip": pip,
+        "Multiplier": multiplier,
+        "Margin": margin,
+        "RollLong": 0,
+        "RollShort": 0,
+        "Symbol": symbol
+    }
+    df = pd.concat([df, pd.DataFrame([new_row])], ignore_index=True)
+
+# Spread 소숫점 문제 수정 - 4자리까지만 표시
+df['Spread'] = df['Spread'].round(4)
+
+# 여기서 원하는 대로 데이터프레임 수정 가능
+# 예: 가격이 0인 행 제거
+df = df[df['Price'] > 0]
+
+# CSV로 저장
+df.to_csv("Assets.csv", index=False, float_format='%.4f')
+
+print("Assets.csv 파일이 생성되었습니다!")
+print("\n데이터프레임 미리보기:")
+print(df.head())
+```
+
+
+
+
 📌 **설명**
 
 - **바이낸스 API에서 거래 가능한 선물 목록을 가져옴**
