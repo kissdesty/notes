@@ -69,16 +69,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Journals/2025-04-08.md",
+                "file": "Obsidian/Journals/2025-04-11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-08"
+              "title": "2025-04-11"
+            }
+          },
+          {
+            "id": "abccf436907c2116",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -223,10 +233,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a07e3a6f81fc6219",
+  "active": "abccf436907c2116",
   "lastOpenFiles": [
-    "Obsidian/Trading/Lite-C 알고리즘 (Zorro-Trader).md",
+    "Obsidian/Journals/2025-04-11.md",
+    "Obsidian/ETC/Agent 개발.md",
     "Obsidian/Journals/2025-04-08.md",
+    "Obsidian/Trading/Lite-C 알고리즘 (Zorro-Trader).md",
     "Obsidian/Journals/2025-04-02.md",
     "Obsidian/Trading/예스스팟 (선물신호 - ETF).md",
     "Obsidian/Journals/2025-03-31.md",
@@ -252,8 +264,6 @@
     "Obsidian/Journals/2024-12-13.md",
     "Obsidian/Journals/2024-12-02.md",
     "Obsidian/Insight/AI/프로슈머의 미래 - AI Native 워크플로우의 부상.md",
-    "Obsidian/ETC/Todo.md",
-    "Obsidian/ETC/IMU Production.md",
     "Obsidian/WND",
     "Obsidian/GDD/무기",
     "Obsidian/GDD/시스템",
