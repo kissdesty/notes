@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -237,10 +237,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6bd34cece971aa7f",
+  "active": "a07e3a6f81fc6219",
   "lastOpenFiles": [
-    "Obsidian/무제2.md",
     "Obsidian/선택형 제목.md",
+    "Obsidian/무제2.md",
     "Obsidian/Journals/2025-04-11.md",
     "무제.md",
     "Obsidian/ETC/Agent 개발.md",
