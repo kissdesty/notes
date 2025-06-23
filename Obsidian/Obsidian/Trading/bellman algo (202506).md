@@ -322,43 +322,6 @@ https://scikit-learn.org/stable/modules/generated/sklearn.cluster.AgglomerativeC
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 [Q.  Voracious_Amoeba] [오후 2:44] 와...혹시 S/USDT 거래하신분 있나요?
 [Q.  Voracious_Amoeba] [오후 2:45] 이게 제가 seperator 처리 제대로 안한 버그가 있어서 다른 종목이랑 섞여거래돼서 한참 원인찾느라 시간을 날렸네요 ㅋㅋㅋㅋ
 *S/USDT인 종목이 워낙 많아서 ㅋㅋ
@@ -566,6 +529,51 @@ https://scikit-learn.org/stable/modules/generated/sklearn.cluster.AgglomerativeC
 [Q. 파이썬] [오전 9:32] 해외선물은 안하시나요?
 [bellman] [오전 9:34] 해야죠
 [bellman] [오전 9:34] 할게많네요
+
+
+
+
+
+
+
+![[Pasted image 20250623171303.png]]
+[bellman] [오후 1:08] 이런건대체 뭐하는코인인가여
+[Q.김주형] [오후 1:08] 뭐하는 코인 = 뭐코
+[Q.김주형] [오후 1:08] 이게 뭐코
+[bellman] [오후 1:09] 거의 수익은 이런거에서ㅠ나네요
+[bellman] [오후 1:09] 항상 오늘의코인 하나씩을 발견하는듯
+
+![[Pasted image 20250623171400.png]]
+[bellman] [오후 2:05] 상남자식 매매하네요 ㄷㄷ
+[Q. 파이썬] [오후 2:06] 저랑 비슷하게 하는군요 ㄷㄷ
+[Q. 파이썬] [오후 2:06] 전어제 비트를 잡앗죠 ㄷㄷ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
