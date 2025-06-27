@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,10 +209,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "32594ee7530b6629",
+  "active": "801efa61d87d6f87",
   "lastOpenFiles": [
-    "Obsidian/Trading/bellman algo (202506).md",
     "Obsidian/Trading/bellman algo - 따라하기.md",
+    "Obsidian/Trading/bellman algo (202506).md",
     "links/Pasted image 20250626153602.png",
     "links/Pasted image 20250626153434.png",
     "links/Pasted image 20250626153351.png",
