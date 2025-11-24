@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -224,25 +224,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a23e8629a280c6",
+  "active": "32594ee7530b6629",
   "lastOpenFiles": [
+    "links/Pasted image 20251124162954.png",
+    "links/Pasted image 20251124162903.png",
+    "links/Pasted image 20251124162638.png",
+    "links/Pasted image 20251124162359.png",
+    "links/Pasted image 20251124162326.png",
+    "links/Pasted image 20251124162121.png",
+    "links/Pasted image 20251124160906.png",
+    "links/Pasted image 20251124160851.png",
+    "links/Pasted image 20251124160321.png",
+    "links/Pasted image 20251124160308.png",
+    "links/Pasted image 20251124160042.png",
     "Obsidian/Journals/2025-11-24.md",
+    "Obsidian/Trading/bellman algo - 따라하기.md",
     "Obsidian/Trading/리서치 - 크립토전략 (Grok 4.1 beta).md",
     "Obsidian/Journals/2025-11-20.md",
     "Obsidian/Journals/2025-08-14.md",
     "Obsidian/Trading/bellman algo (202506).md",
-    "Obsidian/Trading/bellman algo - 따라하기.md",
-    "links/Pasted image 20250626153602.png",
-    "links/Pasted image 20250626153434.png",
-    "links/Pasted image 20250626153351.png",
-    "links/Pasted image 20250626152927.png",
-    "links/Pasted image 20250626152753.png",
-    "links/Pasted image 20250626152217.png",
-    "links/Pasted image 20250626152059.png",
-    "links/Pasted image 20250626152004.png",
     "Obsidian/Journals/2025-02-19.md",
-    "links/Pasted image 20250623171400.png",
-    "links/Pasted image 20250623171303.png",
     "Obsidian/Journals/2025-06-23.md",
     "Obsidian/ETC/무협 웹소설 - 소재 2.md",
     "Obsidian/00_Note/노트앱 특징 정리 (PKM툴 - Personal Knowledge Management).md",
@@ -261,7 +262,6 @@
     "Obsidian/Trading/Lite-C 알고리즘 (Zorro-Trader).md",
     "Obsidian/Journals/2025-04-02.md",
     "Obsidian/Trading/예스스팟 (선물신호 - ETF).md",
-    "Obsidian/Journals/2025-03-31.md",
     "Obsidian/Trading/attachments",
     "Obsidian/WND",
     "Obsidian/GDD/무기",
